@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\47abc8713bc3731a983ae9d000165f1c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\23b5c89f9f1c4169dbc16a7823bd3bcf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\1edcd0d4068eeeb2fa4ef58e661238c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\9579516d955bb65f86283f53e27af044\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\modules-2\files-2.1\de.javagl\obj\0.2.1\877b065ee223676a5d88a573e41d7ea66706ddcc\obj-0.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="877b065ee223676a5d88a573e41d7ea66706ddcc">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d1b7615a33ec821154c5a52cab2e5a7f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\323e05c6d9574014f4fac7a1686f7ee4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae7dd84cc44a13a078a1e785d80c9e58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\cf10dcc0ccf19a7779e41dc515a2e801\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\eb1d1d6fcf047c3ea0e15393d6f43dfd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="448cd9e15d90e66e4b1e8e3f02e4c953f44c6f31">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\2c1e6c22951e996778d3ab0ac7a84a9f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\73cc54dda8af2aec2f487650bea7d551\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\570fbcfd0c67bfb496820a8e42e9f3da\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\8cb6b4c6ad44a0117ee6d4878d3f0428\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7788a0e10c72c8d981c2ca22af2a649f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="D:\Simon\Eclipse\Android\arcore-android-sdk-1.1.0\samples\hello_ar_java\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+
+</items>
